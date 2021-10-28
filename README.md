@@ -7,3 +7,7 @@ The global activity of the rocket launch industry grows rapidly and Data Science
 **If you are interested in looking to a document where you can find a summary of this project including the methodologies followed and visualizations you can find a slide deck PDF file which is intended to be a more detailed report in ppt format rather than just a presentation.**
 
 Overall, this was a very interesting project and there is a lot more room and potential to work on for answering more questions. However, for consistency this project is only limited to the needs of the course. I would strongly recommend to anyone who is interested in Data Science and wants to learn, to take the IBM Data Science Professional Certificate on Coursera. I have learnt a lot and interesting things about how a Data Scientist should think and work, the tools to use and finally how to tell interesting stories through the data for revealing insights, answering questions and finally solving problems by making recommendations. If you do take the course I wish you a very good luck and enjoy it! :)
+
+Here are some examples of landing attempts:
+
+![crash](https://user-images.githubusercontent.com/82309132/139225995-beffdd41-b4ce-435f-96f4-450447b8d199.gif)
